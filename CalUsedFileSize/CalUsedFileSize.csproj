@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <Copyright>Copyright (c) Bisitsoft 2023</Copyright>
+    <Company>Bisitsoft</Company>
+    <Authors>Orange233</Authors>
+    <PackageProjectUrl>https://github.com/Orange23333/WizTreeTools</PackageProjectUrl>
+    <Version>1.0</Version>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>D:\Work\Project\Hack\WizTreeTools\LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
+    <PackageReference Include="FileSize" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
