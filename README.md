@@ -17,6 +17,12 @@ WizTree CSV file path = /path/to/WirTreeData.csv
 Cluster size of storage = 4096
 ```
 
+### Third Part
+
+* [CsvHelper](https://joshclose.github.io/CsvHelper/) with [Apache License 2.0](https://licenses.nuget.org/Apache-2.0).
+
+* [Steveo.FileSizen](https://github.com/StevePotter/FileSize) with [MIT License](http://www.opensource.org/licenses/mit-license.php).
+
 ---
 
 View repository on [GitHub](https://github.com/Orange23333/WizTreeTools).
